@@ -1,1 +1,2 @@
 add_subdirectory(queuer)
+add_subdirectory(program_profiling)
